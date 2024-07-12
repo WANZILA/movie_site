@@ -1,0 +1,35 @@
+body {
+    background: linear-gradient(to bottom, #333333, #1a1a1a);
+    font-family: 'Roboto', sans-serif;
+    color: #cccccc;
+}
+
+
+.card {
+ 
+    --bs-card-bg: none;
+    color:  #cccccc;
+    word-wrap: break-word;
+    background-color: #1a1a1a;
+
+}
+
+.star-rating {
+    color: #ffc107;
+}
+.star-rating .fa-star {
+    color: #ffc107;
+}
+.star-rating .fa-star-o {
+    color: #ddd;
+}
+
+footer{
+    background: #131212; 
+}
+
+
+
+
+
+
